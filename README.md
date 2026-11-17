@@ -7,7 +7,9 @@
 ### Scenario
 You are a network engineer of a company, who are assigned a task to design a secure enterprise network for a medium-sized organization. The design should consider internal services and public-facing applications as well.
 ### Task Instructions
+
 You are required to draw a network diagram that meets the following requirements:
+    
     1. Apply a hierarchical network design by clearly showing the Core, Distribution, and Access layers, and include a Demilitarized Zone (DMZ) for public services.
     2. Label all devices and links with appropriate IP addresses, including private IP addresses for the internal network and public IP addresses for the external network.
     3. Clearly differentiate the internal network and the external network (Internet) in the diagram.
